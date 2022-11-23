@@ -10,5 +10,6 @@ queue.append(3)
 queue.append(4)
 
 # print the queue contents
+print(queue)
 
 # pop an item off the front of the queue
