@@ -25,3 +25,7 @@ def binarysearch(item, itemlist):
 
     if lowerIdx > upperIdx:
         return None
+        
+print(binarysearch(23, items))
+print(binarysearch(87, items))
+print(binarysearch(250, items))
