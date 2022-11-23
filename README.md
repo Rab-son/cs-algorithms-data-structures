@@ -1,3 +1,7 @@
 # cs-algorithms-data-structures
 - Contents include: <br/>
-    - [ ] Data Structures
+    - [x] Data Structures
+    - [x] Recursion
+    - [x] Sorting
+    - [x] Searching
+    - [x] Other Algorithms
