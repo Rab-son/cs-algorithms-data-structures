@@ -29,3 +29,5 @@ print(items2)
 
 
 # iterate the keys and values in the dictionary
+for key, value in items2.items():
+    print("key: ", key, " value: ", value)
