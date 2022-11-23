@@ -11,3 +11,6 @@ def is_sorted(itemlist):
     #     if (itemlist[i] > itemlist[i+1]):
     #         return False
     # return True
+
+print(is_sorted(items1))
+print(is_sorted(items2))
