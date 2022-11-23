@@ -13,3 +13,6 @@ queue.append(4)
 print(queue)
 
 # pop an item off the front of the queue
+x = queue.popleft()
+print(x)
+print(queue)
