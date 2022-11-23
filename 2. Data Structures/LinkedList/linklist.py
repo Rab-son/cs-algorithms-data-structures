@@ -66,6 +66,13 @@ class LinkedList(object):
 
 
 # create a linked list and insert some items
+itemlist = LinkedList()
+itemlist.insert(38)
+itemlist.insert(49)
+itemlist.insert(13)
+itemlist.insert(15)
+
+itemlist.dump_list()
 
 # exercise the list
 
