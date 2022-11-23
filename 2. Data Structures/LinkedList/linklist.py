@@ -75,6 +75,8 @@ itemlist.insert(15)
 itemlist.dump_list()
 
 # exercise the list
-
+print("Item count: ", itemlist.get_count())
+print("Finding item: ", itemlist.find(13))
+print("Finding item: ", itemlist.find(78))
 
 # delete an item
