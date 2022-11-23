@@ -10,5 +10,7 @@ items = ["apple", "pear", "orange", "banana", "apple",
 filter = dict()
 
 # loop over each item and add to the hashtable
+for item in items:
+    filter[item] = 0
 
 # create a set from the resulting keys in the hashtable
