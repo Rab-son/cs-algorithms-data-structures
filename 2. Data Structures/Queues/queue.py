@@ -4,6 +4,10 @@ from collections import deque
 # create a new empty deque object that will function as a queue
 
 # add some items to the queue
+queue.append(1)
+queue.append(2)
+queue.append(3)
+queue.append(4)
 
 # print the queue contents
 
