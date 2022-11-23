@@ -7,7 +7,7 @@ items = ["apple", "pear", "orange", "banana", "apple",
          "apple", "kiwi", "pear", "apple", "orange"]
 
 # create a hashtable to perform a filter
-
+filter = dict()
 
 # loop over each item and add to the hashtable
 
