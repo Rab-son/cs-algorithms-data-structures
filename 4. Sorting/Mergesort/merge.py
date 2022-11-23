@@ -39,6 +39,8 @@ def mergesort(dataset):
             j += 1
             k += 1
 
-
-
 # test the merge sort with data
+
+print(items)
+mergesort(items)
+print(items)
