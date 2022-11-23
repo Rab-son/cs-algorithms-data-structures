@@ -7,7 +7,7 @@ items = ["apple", "pear", "orange", "banana", "apple",
          "apple", "kiwi", "pear", "apple", "orange"]
 
 # create a hashtable object to hold the items and counts
-
+counter = dict()
 
 # iterate over each item and increment the count for each one
 
