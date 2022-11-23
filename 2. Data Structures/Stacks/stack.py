@@ -11,6 +11,6 @@ stack.append(4)
 
 
 # print the stack contents
-
+print(stack)
 
 # pop an item off the stack
