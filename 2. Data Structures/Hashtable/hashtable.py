@@ -24,7 +24,8 @@ print(items2)
 
 
 # replace an item
-
+items2["key2"] = "two"
+print(items2)
 
 
 # iterate the keys and values in the dictionary
