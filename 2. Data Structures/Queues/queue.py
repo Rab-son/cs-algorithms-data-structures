@@ -1,4 +1,5 @@
 # try out the Python queue functions
+from collections import deque
 
 # create a new empty deque object that will function as a queue
 
