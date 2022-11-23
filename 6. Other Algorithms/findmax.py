@@ -24,3 +24,4 @@ def find_max(items):
 
 
 # test the function
+print(find_max(items))
