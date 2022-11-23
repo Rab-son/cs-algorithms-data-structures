@@ -45,3 +45,10 @@ def partition(datavalues, first, last):
 
     # return the split point index
     return upper
+
+
+
+# test the merge sort with data
+print(items)
+quickSort(items, 0, len(items)-1)
+print(items)
