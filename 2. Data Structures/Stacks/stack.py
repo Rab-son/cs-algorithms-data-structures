@@ -14,3 +14,6 @@ stack.append(4)
 print(stack)
 
 # pop an item off the stack
+x = stack.pop()
+print(x)
+print(stack)
