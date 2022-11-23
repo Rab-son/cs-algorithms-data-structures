@@ -17,3 +17,4 @@ for item in items:
         counter[item] = 1
 
 # print the results
+print(counter)
