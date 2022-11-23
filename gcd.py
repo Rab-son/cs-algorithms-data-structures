@@ -1,3 +1,4 @@
+# Find the greatest common denominator of two numbers
 def gcd(a, b):
     while (b != 0):
         t = a       # set aside the value of a
