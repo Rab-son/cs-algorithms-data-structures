@@ -2,6 +2,8 @@
 
 
 # create a hashtable all at once
+items1 = dict({"key1": 1, "key2": 2, "key3": "three"})
+print(items1)
 
 
 
